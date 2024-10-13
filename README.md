@@ -32,11 +32,12 @@ O sistema bancário inclui as seguintes operações:
 
 ## Changelog
 
-### Versão 1.0.0
+### Versão 3.0.0
 
-- Implementação inicial do sistema bancário
-- Funcionalidades básicas: depósito, saque e extrato
-- Limite de saques diários e valor máximo por saque
+- Reestruturação do sistema em classes para melhorar a organização.
+- Implementação de múltiplas contas por usuário.
+- Adição de um histórico de transações, com registros de depósitos e saques.
+- Melhorias nas validações de entrada e no tratamento de erros.
 
 ### Versão 2.0.0
 
@@ -46,6 +47,12 @@ O sistema bancário inclui as seguintes operações:
 - Implementação de validações para CPF e data de nascimento
 - Melhoria no tratamento de erros e validações de entrada
 - Atualização do menu para incluir novas funcionalidades
+
+### Versão 1.0.0
+
+- Implementação inicial do sistema bancário
+- Funcionalidades básicas: depósito, saque e extrato
+- Limite de saques diários e valor máximo por saque
 
 ## Contribuições
 
